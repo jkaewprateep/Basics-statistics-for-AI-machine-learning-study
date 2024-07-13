@@ -155,6 +155,8 @@ print(cc.BPXSY1.RIDAGEYR**2)
 
 ## Logistics regression ##
 
+🧸💬 In some application events had persistence scopes $p/(1-p)$ or $p1 = 1 - p2$ . This step is selecting a suitable model for the study and in our example are linear regression model and logistic regression model. </br>
+
 <p align="center" width="100%">
     <img alt="Statistics distribution" width="30%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_09.png">
     <img alt="Statistics distribution" width="45%" src="https://github.com/jkaewprateep/counter_clocks/blob/main/98.png"> </br>
