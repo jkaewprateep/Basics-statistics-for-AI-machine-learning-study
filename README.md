@@ -144,6 +144,8 @@ print(cc.BPXSY1.RIDAGEYR**2)
 
 ## Residual plot and errors band ##
 
+🧸💬 From data observation, this should be done step by data visualization we found that the BMI value matches linear regression with the ordinary least squares model and error bands are in the finite values. </br>   
+
 <p align="center" width="100%">
     <img alt="Statistics distribution" width="40%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_07.png">
     <img alt="Statistics distribution" width="40%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_08.png"> </br>
