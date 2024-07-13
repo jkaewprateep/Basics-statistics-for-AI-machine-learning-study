@@ -87,3 +87,42 @@ def lf_plot(n):
     <b>Data continuous | Marginal chatbox</b></br>
     <b>Picture from Internet</b>
 </p>
+
+## OLS - Ordinary Least Squares ##
+
+<p align="center" width="100%">
+    <img alt="Statistics distribution" width="40%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_06.png">
+    <img alt="Statistics distribution" width="40%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_06.png"> </br>
+    <b>Continuous graph | Confusion matrix</b></br>
+    <b>Picture from Internet</b>
+</p>
+
+```
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 BPXSY1   R-squared:                       0.215
+Model:                            OLS   Adj. R-squared:                  0.214
+Method:                 Least Squares   F-statistic:                     697.4
+Date:                Wed, 19 Jun 2024   Prob (F-statistic):          1.87e-268
+Time:                        06:58:42   Log-Likelihood:                -21505.
+No. Observations:                5102   AIC:                         4.302e+04
+Df Residuals:                    5099   BIC:                         4.304e+04
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+=====================================================================================
+                        coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------
+Intercept           100.6305      0.712    141.257      0.000      99.234     102.027
+RIAGENDRx[T.Male]     3.2322      0.459      7.040      0.000       2.332       4.132
+RIDAGEYR              0.4739      0.013     36.518      0.000       0.448       0.499
+==============================================================================
+Omnibus:                      706.732   Durbin-Watson:                   2.036
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1582.730
+Skew:                           0.818   Prob(JB):                         0.00
+Kurtosis:                       5.184   Cond. No.                         168.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+```
