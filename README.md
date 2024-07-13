@@ -9,6 +9,7 @@ Data Analytics [Google]( https://coursera.org/share/3d15025b54bd5680458942a2d4e7
 </p>
 
 ## Bayesian probability ##
+🧸💬 In the event there are some events before the current and continue, aligned of all the events created of our as humans nowadays. </br>
 
 <p align="center" width="100%">
     <img alt="flappy_distance.jpg" width="33%" src="https://github.com/jkaewprateep/Neuron-Networks-review/blob/main/images/flappy_distance.jpg">
