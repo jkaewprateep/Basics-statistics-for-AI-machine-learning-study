@@ -4,7 +4,9 @@ Statistics with Python Specialization [MICHIGAN]( https://coursera.org/share/0c7
 ## Bayesian probability ##
 
 <p align="center" width="100%">
-    <img alt="flappy_distance.jpg" width="40%" src="https://github.com/jkaewprateep/Neuron-Networks-review/blob/main/images/flappy_distance.jpg"> </br>
+    <img alt="flappy_distance.jpg" width="33%" src="https://github.com/jkaewprateep/Neuron-Networks-review/blob/main/images/flappy_distance.jpg">
+    <img alt="flappy_distance.jpg" width="40%" src="https://github.com/jkaewprateep/lessonfrom_Applied_Plotting_Charting_and_Data_Representation_in_Python/blob/main/FlappyBird_small.gif"> </br>
+    <b>Continuous graph | Sample application</b></br>
 </p>
 
 <p align="center" width="200%">    
