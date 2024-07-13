@@ -19,6 +19,13 @@ Statistics with Python Specialization [MICHIGAN]( https://coursera.org/share/0c7
 
 <p align="center" width="100%">
     <img alt="Statistics distribution" width="40%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_01.png"> </br>
+    <b>Picture from Internet</b>
 </p>
 
 🧸💬 BETA priors is using for the function characteristics in example $\alpha = \beta = 1$ is center distribution, $\alpha, \beta > 1$ is mode, $\alpha, \beta < 1$  is anti-mode, mean, robustness, concentration and variance are use for technically graphs distribution performance.
+
+<p align="center" width="100%">
+    <img alt="Statistics distribution" width="40%" src="https://github.com/jkaewprateep/lessonfrom_Applied_Plotting_Charting_and_Data_Representation_in_Python/blob/main/02.png">
+    <img alt="Statistics distribution" width="32%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_02.png"> </br>
+    <b>Picture from Internet</b>
+</p>
