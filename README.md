@@ -1,6 +1,7 @@
 # Basics-statistics-for-AI-machine-learning-study
-Statistics with Python Specialization [MICHIGAN]( https://coursera.org/share/0c7445ac88c5b05923f937afdd64c925 ) 🔶🔷
-AI Developer Professional [IBM]( https://coursera.org/share/95fa5c2bf36ea52759dcabc50e1a81b0 ) 🔶🔷
+Statistics with Python Specialization [MICHIGAN]( https://coursera.org/share/0c7445ac88c5b05923f937afdd64c925 ) 🔶🔷 </br>
+AI Developer Professional [IBM]( https://coursera.org/share/95fa5c2bf36ea52759dcabc50e1a81b0 ) 🔶🔷 </br>
+Data Analytics [Google]( https://coursera.org/share/3d15025b54bd5680458942a2d4e7c1a6 ) 🔶🔷 </br>
 
 ## Bayesian probability ##
 
