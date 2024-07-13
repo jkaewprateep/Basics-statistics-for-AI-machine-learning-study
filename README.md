@@ -33,6 +33,21 @@ Data Analytics [Google]( https://coursera.org/share/3d15025b54bd5680458942a2d4e7
     <b>Picture from Internet</b>
 </p>
 
+### Data generator ###
+
+```
+def lf_plot(n):
+    theta = np.linspace(0.01, 0.99, 100)
+    for x in np.floor(np.r_[0.2, 0.5, 0.6]*n):
+        l = st.binom.pmf(x, n, theta)
+        plt.grid(True)
+        plt.plot(theta, l, "-", label="%.0f" % x)
+        plt.xlabel(r"$\theta$", size=15)
+        plt.ylabel("Log likelihood", size=15)
+    ha, lb = plt.gca().get_legend_handles_labels()
+    plt.figlegend(ha, lb, "center right")
+```
+
 🧸💬 BETA priors is using for the function characteristics in example $\alpha = \beta = 1$ is center distribution, $\alpha, \beta > 1$ is mode, $\alpha, \beta < 1$  is anti-mode, mean, robustness, concentration and variance are use for technically graphs distribution performance.
 
 <p align="center" width="100%">
