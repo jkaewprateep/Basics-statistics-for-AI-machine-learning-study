@@ -126,3 +126,17 @@ Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
 
 ```
+
+## R-squared and correlation ##
+🧸💬 In the first step we should create a communication method when working on a project, how much of the selected data variables are related to another or target variable output value? How much they are related to the objective variable values and response function output and how much it effects after applying some value or variables. Variable correlation is one good method to identify first. </br>
+
+**Input:**
+```
+cc = da[["BPXSY1", "RIDAGEYR"]].corr()
+print(cc.BPXSY1.RIDAGEYR**2)
+```
+
+**Output:**
+```
+0.2071545962518702
+```
