@@ -3,11 +3,11 @@ Statistics with Python Specialization [MICHIGAN]( https://coursera.org/share/0c7
 
 ## Bayesian probability ##
 
-<p align="center" width="100%">    
-    <img alt="My sample applications" src="https://github.com/jkaewprateep/Neuron-Networks-review/blob/main/images/flappy_distance.jpg"> </br> 
+<p align="center" width="100%">
+    <img alt="flappy_distance.jpg" width="40%" src="https://github.com/jkaewprateep/Neuron-Networks-review/blob/main/images/flappy_distance.jpg"> </br>
 </p>
 
-<p align="center" width="100%">    
+<p align="center" width="200%">    
     $p(\theta|D) = P(D|\theta)P(\theta)/P(D)$ </br>    
 </p>
 
@@ -15,3 +15,7 @@ Statistics with Python Specialization [MICHIGAN]( https://coursera.org/share/0c7
 
 [Neuron-Networks-review]( https://github.com/jkaewprateep/lessonfrom_Applied_Plotting_Charting_and_Data_Representation_in_Python )
 </br> 
+
+<p align="center" width="100%">
+    <img alt="Statistics distribution" width="40%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_01.png"> </br>
+</p>
