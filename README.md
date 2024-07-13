@@ -91,8 +91,8 @@ def lf_plot(n):
 ## OLS - Ordinary Least Squares ##
 
 <p align="center" width="100%">
-    <img alt="Statistics distribution" width="40%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_06.png">
-    <img alt="Statistics distribution" width="40%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_06.png"> </br>
+    <img alt="Statistics distribution" width="30%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_06.png">
+    <img alt="Statistics distribution" width="50%" src="https://github.com/jkaewprateep/model_stability/blob/main/Figure_5.png"> </br>
     <b>Continuous graph | Confusion matrix</b></br>
     <b>Picture from Internet</b>
 </p>
