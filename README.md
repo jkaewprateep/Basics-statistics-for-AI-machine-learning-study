@@ -5,8 +5,7 @@ Data Analytics [Google]( https://coursera.org/share/3d15025b54bd5680458942a2d4e7
 
 <p align="center" width="100%">
     <img alt="flappy_distance.jpg" width="34%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/Screenshot%202024-07-14%20010127.png">
-    <img alt="flappy_distance.jpg" width="14.2%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/08419ff9-9066-4114-9af4-cca209abc322.jpg"> </br>      
-    <b>Picture from Internet</br>
+    <img alt="flappy_distance.jpg" width="14.2%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/08419ff9-9066-4114-9af4-cca209abc322.jpg"> </br>       <b>Picture from Internet</b></br>
 </p>
 
 ## Bayesian probability ##
@@ -17,9 +16,34 @@ Data Analytics [Google]( https://coursera.org/share/3d15025b54bd5680458942a2d4e7
     <b>Continuous graph | Sample application</b></br>
 </p>
 
+### Neuron networks sample codes ###
+
+```
+class MyDenseLayer(tf.keras.layers.Layer):
+	def __init__(self, num_outputs, name="MyDenseLayer"):
+		super(MyDenseLayer, self).__init__()
+		self.num_outputs = num_outputs
+
+	def build(self, input_shape):
+		self.kernel = self.add_weight("kernel",
+		shape=[int(input_shape[-1]), 1])
+		self.biases = tf.zeros([int(input_shape[-1]), 1])
+
+	def call(self, inputs):
+	
+		# Weights from learning effects with input.
+		temp = tf.reshape( inputs, shape=(10, 1) )
+		temp = tf.matmul( inputs, self.kernel ) + self.biases
+		
+		# Posibility of x in all and x.
+		return tf.nn.softmax( temp, axis=0 )
+```
+
 <p align="center" width="200%">    
-    $p(\theta|D) = P(D|\theta)P(\theta)/P(D)$ </br>    
+    $p(\theta|D) = P(D|\theta)P(\theta)/P(D)$ 
 </p>
+
+
 
 🧸💬 **The probability of event $\theta$ created after event $D$ is similar to event $D$ from $\theta$ and the probability of event $\theta$**. Similar to likelihood sequences when the first order in the sequence is $\theta$ and the next is $D$ the probability of $\theta$ and $D$ is less than $\theta$ only and we can manipulate the value with target probabilities to perform some processes such as comparing sequence likelihood, find sources original, create greeting response number from input sequence number and more ...
 
