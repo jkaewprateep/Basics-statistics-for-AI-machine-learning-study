@@ -13,7 +13,8 @@ Statistics with Python Specialization [MICHIGAN]( https://coursera.org/share/0c7
 
 🧸💬 **The probability of event $\theta$ created after event $D$ is similar to event $D$ from $\theta$ and the probability of event $\theta$**. Similar to likelihood sequences when the first order in the sequence is $\theta$ and the next is $D$ the probability of $\theta$ and $D$ is less than $\theta$ only and we can manipulate the value with target probabilities to perform some processes such as comparing sequence likelihood, find sources original, create greeting response number from input sequence number and more ...
 
-[Neuron-Networks-review]( https://github.com/jkaewprateep/lessonfrom_Applied_Plotting_Charting_and_Data_Representation_in_Python )
+[Neuron-Networks-review]( https://github.com/jkaewprateep/lessonfrom_Applied_Plotting_Charting_and_Data_Representation_in_Python ) </br>
+[Applied Plotting]( https://github.com/jkaewprateep/lessonfrom_Applied_Plotting_Charting_and_Data_Representation_in_Python )
 </br> 
 
 <p align="center" width="100%">
