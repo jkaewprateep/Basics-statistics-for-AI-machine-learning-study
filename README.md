@@ -152,3 +152,26 @@ print(cc.BPXSY1.RIDAGEYR**2)
     <b>BMI linear plot | BMI scatter plot </b></br>
     <b>Picture from Internet</b>
 </p>
+
+## Logistics regression ##
+
+<p align="center" width="100%">
+    <img alt="Statistics distribution" width="30%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_09.png">
+    <img alt="Statistics distribution" width="45%" src="https://github.com/jkaewprateep/counter_clocks/blob/main/98.png"> </br>
+    <b>BMI Odd ( logistic regression ) | Sample application in devices </b></br>
+    <b>Picture from Internet</b>
+</p>
+
+### Sample codes ###
+```
+temp = tf.random.normal([10], 1, 0.2, tf.float32)
+temp = np.asarray(temp) * np.asarray([ coefficient_0, coefficient_1, coefficient_2, coefficient_3, 
+coefficient_4, coefficient_5, coefficient_6, coefficient_7, coefficient_8, coefficient_9 ])
+action = np.argmax(temp)	
+```
+
+### Sample target actions ###
+```
+actions = { "none_1": K_h, "up_1": K_w, "none_2": K_h, "none_3": K_h, "none_4": K_h, 
+                      "none_5": K_h, "none_6": K_h, "none_7": K_h, "none_8": K_h, "none_9": K_h }
+```
