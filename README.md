@@ -78,3 +78,12 @@ def lf_plot(n):
     <b>Continuous graph | Confusion matrix</b></br>
     <b>Picture from Internet</b>
 </p>
+
+🧸💬 Transforming data information is one of data identical identity, the application of AI machine learning finds patterns that can be used to categorize data, learn, and provide feedback. Marginal chatbox can consider multi-level linear regression problems. In marginal identification internal interceptions/randoms interception is study scopes data response for the function and when x-y interceptions are points of graph where x and y exist then the internal interceptions is a response to one function with existing data values. </br>
+
+<p align="center" width="100%">
+    <img alt="Statistics distribution" width="40%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_05.png">
+    <img alt="Statistics distribution" width="40%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_04.png"> </br>
+    <b>Data continuous | Marginal chatbox</b></br>
+    <b>Picture from Internet</b>
+</p>
