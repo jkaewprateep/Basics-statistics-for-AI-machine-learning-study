@@ -3,6 +3,12 @@ Statistics with Python Specialization [MICHIGAN]( https://coursera.org/share/0c7
 AI Developer Professional [IBM]( https://coursera.org/share/95fa5c2bf36ea52759dcabc50e1a81b0 ) 🔶🔷 </br>
 Data Analytics [Google]( https://coursera.org/share/3d15025b54bd5680458942a2d4e7c1a6 ) 🔶🔷 </br>
 
+<p align="center" width="100%">
+    <img alt="flappy_distance.jpg" width="34%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/Screenshot%202024-07-14%20010127.png">
+    <img alt="flappy_distance.jpg" width="14.2%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/08419ff9-9066-4114-9af4-cca209abc322.jpg"> </br>      
+    <b>Picture from Internet</br>
+</p>
+
 ## Bayesian probability ##
 
 <p align="center" width="100%">
@@ -22,7 +28,8 @@ Data Analytics [Google]( https://coursera.org/share/3d15025b54bd5680458942a2d4e7
 </br> 
 
 <p align="center" width="100%">
-    <img alt="Statistics distribution" width="40%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_01.png"> </br>
+    <img alt="Statistics distribution" width="40%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_01.png">
+    <img alt="Statistics distribution" width="40%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_03.png"> </br>
     <b>Picture from Internet</b>
 </p>
 
