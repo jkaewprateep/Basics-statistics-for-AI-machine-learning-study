@@ -10,6 +10,7 @@ Data Analytics [Google]( https://coursera.org/share/3d15025b54bd5680458942a2d4e7
 
 ## Bayesian probability ##
 🧸💬 In the event there are some events before the current and continue, aligned of all the events created of our as humans nowadays. </br>
+🐑💬 ➰ They can have multiple events created we need to find the streams and work for each stream as in the application of Speech recognition, NLP, image processing for multiple layers of object detection and augmentation reality, etc. We can have multiple agents queue for communications problems, it is called communications problems because they are updated and comparing results for target results and feedback propagation for the learning process. In multiple agent queues, there are internal updates, communication updates, and experience learning we call sceneries. [Multiple agent queues responses]( https://github.com/jkaewprateep/multi_agent_queue_action_response )
 
 <p align="center" width="100%">
     <img alt="flappy_distance.jpg" width="33%" src="https://github.com/jkaewprateep/Neuron-Networks-review/blob/main/images/flappy_distance.jpg">
