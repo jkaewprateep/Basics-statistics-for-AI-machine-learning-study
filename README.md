@@ -128,6 +128,10 @@ def lf_plot(n):
     <b>Picture from Internet</b>
 </p>
 
+🧸💬 Real-time update standard variance variable value or pre-defined variance data alignment in row selection is the ordinary least mean square or standard error function. <br>
+👧💬 🎈 Observations are not pseudo estimate functions but data processes with standard functions with pre-defined matrixes and target relationship results, a specific plan can be applied to improve the performance of the method. </br>
+🐐💬 More than the standards but they are good at real-time function response for many variety of input types. </br>
+
 ```
                             OLS Regression Results                            
 ==============================================================================
