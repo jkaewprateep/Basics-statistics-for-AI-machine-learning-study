@@ -68,7 +68,7 @@ class MyDenseLayer(tf.keras.layers.Layer):
 </p>
 
 🧸💬 Focus on data science, how you identify the sample input data distribution graph example can be an input of coffee and codes return, we need to identify the same group of users tasks from time and inputs with target efficiency ☕☕☕. </br>
-🐑💬 ➰ Log likelihood can perform the process without the need to step each time scale and comparison because of transformation comparison of the green and orange will be in similar value and they are identical. </br>
+🐑💬 ➰ Log likelihood can perform the process without the need to step each time scale and comparison because of transformation comparison of the green and orange will be in similar value and they are identical. [Likelyhood WiKi]( https://en.wikipedia.org/wiki/Likelihood_function )</br>
 
 
 <p align="center" width="200%">    
