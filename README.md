@@ -106,6 +106,8 @@ def lf_plot(n):
 </p>
 
 🧸💬 Transforming data information is one of data identical identity, the application of AI machine learning finds patterns that can be used to categorize data, learn, and provide feedback. Marginal chatbox can consider multi-level linear regression problems. In marginal identification internal interceptions/randoms interception is study scopes data response for the function and when x-y interceptions are points of graph where x and y exist then the internal interceptions is a response to one function with existing data values. </br>
+🐑💬 ➰ ⁉️ Is marginal value the patterns ⁉️ </br>
+🧸💬 It is variance and it can be one of the categorized variables, Patterns need to perform similarly in different samples of the inputs and perform the same output as fingerprints or digital ID. </br>
 
 <p align="center" width="100%">
     <img alt="Statistics distribution" width="40%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_05.png">
@@ -116,8 +118,6 @@ def lf_plot(n):
 
 ## OLS - Ordinary Least Squares ##
 🧸💬 One method applicable is ordinary least squares, work results, and experiment values easily applied by this method and perform the update with one or two variables concatenation for the robustness of variable input variances problems. </br>   
-🐑💬 ➰ ⁉️ Is marginal value the patterns ⁉️ </br>   
-🧸💬 It is variance and it can be one of the categorized variables, Patterns need to perform similarly in different samples of the inputs and perform the same output as fingerprints or digital ID. </br>   
 
 <p align="center" width="100%">
     <img alt="Statistics distribution" width="30%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_06.png">
