@@ -55,6 +55,7 @@ class MyDenseLayer(tf.keras.layers.Layer):
 
 🦭💬 **Sometimes the identical function not always be good in categorizing performance variables**, For example for the Groups category of credit card users the highest values customers are not always the most profitable but steady usage with practical returns on time they are. </br>
 💃( 👩‍🏫 )💬 They are the same services in the market VESA and Master card before the transformation about 10 years ago, The VESA process is very good at creating profitability for customers and rewards. For example, aggregation data process, contact time, and communication patterns aggregated data while new data update supportive accumulate in ranges sometimes is new year event or high volumes or weekend. That is why they need a new year or 6-months synchronized time for accounting calculation time and services maintenance, however, they reduced the time of maintenance by online aggregation data they called process online for merchant and online system because they are most time updated since they are merchants using their services. </br>
+🦤💬 Even if it is not necessary they create processes to benefit all parties, customers, organizations, products, and financial organizations and working processes. </br>
 
 [Neuron-Networks-review]( https://github.com/jkaewprateep/lessonfrom_Applied_Plotting_Charting_and_Data_Representation_in_Python ) </br>
 [Applied Plotting]( https://github.com/jkaewprateep/lessonfrom_Applied_Plotting_Charting_and_Data_Representation_in_Python )
