@@ -22,7 +22,7 @@ Data Analytics [Google]( https://coursera.org/share/3d15025b54bd5680458942a2d4e7
 </p>
 
 ### Neuron networks sample codes ###
-👧💬 🎈 The super because we need to create a new class object, that is an initial function with new initial weight distribution values because the user often forgets to create a new class and uses the training weight distribution values with another process, one more reason is this class method programming style is short for create a new class for work in a process and all emoved by Python once the reference object did the process or no-invoke method. </br>
+👧💬 🎈 The super because we need to create a new class object, that is an initial function with new initial weight distribution values because the user often forgets to create a new class and uses the training weight distribution values with another process, one more reason is this class method programming style is short for create a new class for work in a process and all removed by Python once the reference object did the process or no-invoke method. </br>
 
 ```
 class MyDenseLayer(tf.keras.layers.Layer):
