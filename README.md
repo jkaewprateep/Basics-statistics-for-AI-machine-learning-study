@@ -199,6 +199,8 @@ print(cc.BPXSY1.RIDAGEYR**2)
 </p>
 
 ### Sample codes ###
+🐑💬 ➰ Application of apply on a remote machine, this application exists on command set devices such as television remote commands codes and etc. </br>
+
 ```
 temp = tf.random.normal([10], 1, 0.2, tf.float32)
 temp = np.asarray(temp) * np.asarray([ coefficient_0, coefficient_1, coefficient_2, coefficient_3, 
@@ -207,6 +209,8 @@ action = np.argmax(temp)
 ```
 
 ### Sample target actions ###
+🐑💬 ➰ Actions domain for output example, select form target predicted number logit or value. </br>
+
 ```
 actions = { "none_1": K_h, "up_1": K_w, "none_2": K_h, "none_3": K_h, "none_4": K_h, 
                       "none_5": K_h, "none_6": K_h, "none_7": K_h, "none_8": K_h, "none_9": K_h }
