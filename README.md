@@ -23,6 +23,7 @@ Data Analytics [Google]( https://coursera.org/share/3d15025b54bd5680458942a2d4e7
 
 ### Neuron networks sample codes ###
 👧💬 🎈 The ```super``` because we need to create a new class object, that is an ```initial function``` with new initial weight distribution values because the user often forgets to create a new class and uses the training weight distribution values with another process, one more reason is this class method programming style is short for ```create a new class for work in a process``` and all removed by Python once the reference object did the process or ```none-invoke method```. </br>
+🧸💬 Some StackOverflow users had questions about the ```multiplication number using Neuron Network```, this is a sample of the custom class and the output target is the shape of the logits output or transform matrix of process values. To make them multiply or work with arithmetic functions you can perform inside the custom class. </br>
 
 ```
 class MyDenseLayer(tf.keras.layers.Layer):
