@@ -53,7 +53,7 @@ class MyDenseLayer(tf.keras.layers.Layer):
     $p(\theta|D) = P(D|\theta)P(\theta)/P(D)$ 
 </p>
 
-🦭💬 ```Sometimes the identical function not always be good in categorizing performance variables```, For example for the Groups category of credit card users the highest values customers are not always the most profitable but steady usage with practical returns on time they are. </br>
+🦭💬 **Sometimes the identical function not always be good in categorizing performance variables**, For example for the Groups category of credit card users the highest values customers are not always the most profitable but steady usage with practical returns on time they are. </br>
 
 [Neuron-Networks-review]( https://github.com/jkaewprateep/lessonfrom_Applied_Plotting_Charting_and_Data_Representation_in_Python ) </br>
 [Applied Plotting]( https://github.com/jkaewprateep/lessonfrom_Applied_Plotting_Charting_and_Data_Representation_in_Python )
