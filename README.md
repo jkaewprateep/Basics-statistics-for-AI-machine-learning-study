@@ -96,6 +96,7 @@ def lf_plot(n):
 
 🧸💬 BETA priors are used for the function characteristics in example $\alpha = \beta = 1$ is center distribution, $\alpha, \beta > 1$ is mode, $\alpha, \beta < 1$  is anti-mode, mean, robustness, concentration and variance are used for technically graphs distribution performance. </br>
 🦭💬 Confusion matrix, correlation variables, F1-scores, ANOVA, and matrixes are used to find the identical variables, graph determination is also used for experience visualization and it works in the Bayesian series patterns as same as features extraction functions and domain propagation for useful in the process. </br>
+🐐💬 Transformation saved time and process by we do not need to perform on exactly every data point or alignment graph, moreover some functions transform and extract significant data patterns such as frequency domain transform or dimension transform. <br>
 
 <p align="center" width="100%">
     <img alt="Statistics distribution" width="40%" src="https://github.com/jkaewprateep/lessonfrom_Applied_Plotting_Charting_and_Data_Representation_in_Python/blob/main/02.png">
