@@ -79,7 +79,7 @@ class MyDenseLayer(tf.keras.layers.Layer):
 ### Data generator ###
 
 👧💬 🎈 Create binomial discrete values function ```st.binom.pmf```, sequence numbers ```np.linspace``` and plot into the grid, the continuous graph is an example of ```Bayesian function that is because of consider the event for target relationship or target event prediction```, there are multiple of patterns peaks values create some actions when identical patterns not always the peak values. </br>
-🐑💬 ➰ Series one and Series 6 not create of high probabilities events and this kind of relationship is not performed by subtraction or ratio values. </br>
+🐑💬 ➰ ```Series one and Series 6``` not create of high probabilities events and this kind of relationship is not performed by subtraction or ratio values. </br>
 
 ```
 def lf_plot(n):
