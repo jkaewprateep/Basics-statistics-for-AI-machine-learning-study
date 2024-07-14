@@ -191,6 +191,7 @@ print(cc.BPXSY1.RIDAGEYR**2)
 ## Logistics regression ##
 
 🧸💬 In some application events had persistence scopes $p/(1-p)$ or $p1 = 1 - p2$ . This step is selecting a suitable model for the study and in our example are linear regression model and logistic regression model. </br>
+🐯💬 Prediction from linear or logistic regression can be performed on multiple devices, leading number communication is now setup as MAC ADDRESS standards since we merged and solved the CULTURE-INFO problems. </br>
 
 <p align="center" width="100%">
     <img alt="Statistics distribution" width="30%" src="https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/picture_09.png">
