@@ -72,7 +72,7 @@ class MyDenseLayer(tf.keras.layers.Layer):
 
 
 <p align="center" width="200%">    
-    $O( A1 : A2 | B ) = O( A1 : A2 ) * \delta( A1 : A2 | B )$
+    $O( A1 : A2 | B ) = O( A1 : A2 ) * \Lambda( A1 : A2 | B )$
 </p>
 
 
